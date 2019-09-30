@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426551393826",
+    "firebase_url": "https://device2devicepush.firebaseio.com",
+    "project_id": "device2devicepush",
+    "storage_bucket": "device2devicepush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426551393826:android:e0f3347c8e12d590e2947b",
+        "android_client_info": {
+          "package_name": "co.id.hukman.device2devicepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426551393826-9muntuqa56l0f0pcqnpmustnoe7tnf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fni_Zlde03nAgoMSr6fg39m01kxrfLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426551393826-9muntuqa56l0f0pcqnpmustnoe7tnf6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

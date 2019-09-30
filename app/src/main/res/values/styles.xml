@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MaterialTextView" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/colorAccent</item>
+        <item name="hintTextAppearance">@style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
+    </style>
+
+    <style name="AppButton" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="backgroundTint">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="MyCardView" parent="Base.CardView">
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="MyCardView.Soft">
+        <item name="cardBackgroundColor">#8A4FDF</item>76B786E6
+    </style>
+    <style name="cardViewBackground">
+        <item name="android:background">#B786E6</item>
+    </style>
+
+
+</resources>
